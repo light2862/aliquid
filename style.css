@@ -9,7 +9,7 @@ body {
   font-family: 'Inter', system-ui, sans-serif;
   background: #ffffff; /* bianco pieno */
   min-height: 100vh;
-  color: #fff;
+  color: #000000;  /* tutte le scritte nere di default */
 }
 
 .wrapper {
