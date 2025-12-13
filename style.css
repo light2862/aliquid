@@ -67,12 +67,12 @@ body {
 
 /* Cards - invisibili di default */
 .card {
-  opacity: 0;
-  transform: translateY(20px);
-  transition: opacity 0.3s ease, transform 0.3s ease;
+  opacity: 1; /* visibili di default */
+  transform: translateY(0); /* niente spostamento */
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
   padding: 2.5rem 1.5rem;
   text-align: center;
-  font-size: 1.2rem;
+  font-size: 1.2rem
   cursor: pointer;
   background: rgba(255, 255, 255, 0.25); /* glass */
   backdrop-filter: blur(14px);
