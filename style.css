@@ -8,9 +8,8 @@
 /* Corpo della pagina */
 body {
   font-family: 'Inter', system-ui, sans-serif;
-  background: linear-gradient(135deg, #0a3cff, #ff8a00);
-  min-height: 100vh;
-  color: #000000; /* tutte le scritte nere di default */
+  background-color: #ffffff; /* sfondo bianco
+ /* tutte le scritte nere di default */
 }
 
 /* Wrapper principale */
