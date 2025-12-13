@@ -7,7 +7,7 @@
 
 body {
   font-family: 'Inter', system-ui, sans-serif;
-  background: linear-gradient(135deg, #0a3cff, #ff8a00);
+  background: #ffffff; /* bianco pieno */
   min-height: 100vh;
   color: #fff;
 }
