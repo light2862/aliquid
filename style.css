@@ -145,3 +145,7 @@ body {
     flex-direction: column;
   }
 }
+.card {
+  text-decoration: none;
+  color: inherit;
+}
